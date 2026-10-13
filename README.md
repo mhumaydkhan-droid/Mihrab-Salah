@@ -1,4 +1,4 @@
-# Salah Tracker
+# Mihrab Salah
 
 Track the five daily prayers, qaza and monthly progress. Data stays in each person's own browser.
 
